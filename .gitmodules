@@ -1,0 +1,6 @@
+[submodule "learing-cxx"]
+	path = learing-cxx
+	url = https://github.com/jalya0421/exam-grading-demo.git
+[submodule "learning-cxx-demo"]
+	path = learning-cxx-demo
+	url = https://github.com/jalya0421/learning-cxx-demo.git
